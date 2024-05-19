@@ -1,0 +1,8 @@
+﻿セット,価格
+set1,100
+set3,200
+enter,InputDeviceType::Keyboard,13
+back,InputDeviceType::Keyboard,110
+coo,InputDeviceType::Keyboard,107
+kakunin,InputDeviceType::Keyboard,109
+4
