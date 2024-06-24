@@ -8,4 +8,4 @@ https://siv3d.github.io/ja-jp/
 また、販売個数とその売れた時刻を記録するデータ分析用の機能をつけました。  
 
 .exe  
-https://github.com/yufoxda/register3/tree/master/register3/App
+https://github.com/yufoxda/register3/tree/master/build
